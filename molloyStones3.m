@@ -47,10 +47,10 @@ function molloyStones3
 % 
 % Reference: http://www.samuel-beckett.net/molloy1.html 
 
-grtcoatL = [];
-grtcoatR = [ 1  2  3   4   5  6];
-trouserL = [ 7  8  9  10  11];
-trouserR = [ 12 13 14 15  16];
+grtcoatL = [];                    % Great Coat Pocket (Left)
+grtcoatR = [ 1  2  3   4   5  6]; % Great Coat Pocket (Right)
+trouserL = [ 7  8  9  10  11];    % Trouser Pocket (Left)
+trouserR = [ 12 13 14 15  16];    % Trouser Pocket (Right) 
 
 mouth = [];  
 
