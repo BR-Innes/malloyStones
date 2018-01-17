@@ -1,5 +1,5 @@
 function molloyStones3
-%% molloyStones2   Stone Circulation Method 2
+%% molloyStones3   Stone Circulation Method 3
 % 
 % "And it was on the basis of this interpretation, whether right 
 % or wrong, that I finally reached a solution, inelegant assuredly, but 

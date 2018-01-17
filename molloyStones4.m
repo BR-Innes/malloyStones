@@ -1,5 +1,5 @@
 function molloyStones4
-%% molloyStones1   Stone Circulation Method 4 
+%% molloyStones3   Stone Circulation Method 4 
 % 
 % "But deep down I didn't give a 
 % fiddler's curse about being without, when they were all gone they 
